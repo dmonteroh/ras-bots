@@ -1,3 +1,5 @@
+Original Repo can be found [here](https://github.com/kimmk/ras-bots), forked for showcase purposes. This project was done for the "Perception and Navigation in Robotics" class from the [Smart Systems Programme of the University of Turku](https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-information-and-communication-technology-smart-systems) with my teammates. [Demonstration video can be found in this LinkedIn post](https://www.linkedin.com/posts/dmonteroh_today-was-demonstration-day-for-robotics-activity-6803408292421935104-Y8CL?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
 # Instructions - WIP
 Necessary installations:
 
